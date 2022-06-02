@@ -1,4 +1,4 @@
-I'm Chris Paliqaw, and I'm currently studying the best ways to integrate ROS2 into full-stack Javascript systems.
+I'm Chris Paliqaw, and I'm currently studying the best ways to integrate ROS2 into full-stack systems.
 
 <!---
 christophomos/christophomos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
